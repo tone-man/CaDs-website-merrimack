@@ -1,4 +1,4 @@
-name: Test and Deploy Fol Production
+name: Test and Deploy For Production
 on: 
   push: 
     branches:
